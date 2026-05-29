@@ -21,14 +21,19 @@ Este espacio irá creciendo con sitios web, aplicaciones y prácticas de program
 - CSS
 - Python
 - Java
+- javascript
 - MySQL
 - GitHub
+- bootstrap
+- oracle
+- Assembler
+- arduino
 
 ---
 
 ## 📌 Sobre mí
-
-Me caracterizo por ser responsable, dedicada y con gran disposición para aprender. Mi objetivo es adquirir experiencia práctica en el área de electrónica y programación para continuar creciendo como profesional tecnológica.
+Diseñadora Web & Técnica en Electrónica | Front-End / Full Stack Jr | HTML, CSS, Python, Java, Arduino | En búsqueda de oportunidades TI en LATAM
+Me caracterizo por ser responsable,me gusta resolver problemas,diseñar y crear nuevas cosas, soy dedicada y con gran disposición para aprender. Mi objetivo es adquirir experiencia práctica en el área de electrónica y programación para continuar creciendo como profesional tecnológica.
 
 ---
 
