@@ -4,7 +4,7 @@
 # 🌟 Portafolio Profesional - Ana Vallejos Seguel
 
 ¡Hola! 👋  
-Soy **Ana Vallejos Seguel**, estudiante de **Técnico en Electrónica**, interesada en el desarrollo web, la programación y la tecnología. Busco fortalecer constantemente mis habilidades y participar en proyectos que me permitan crecer de forma profesional.
+Soy **Ana Vallejos Seguel**, profesional **Tecnico Electronica** estudiante de **Desarrollo Wed**, interesada en el diseño web, la programación y la tecnología. Busco fortalecer constantemente mis habilidades y participar en proyectos que me permitan crecer de forma profesional.
 
 ---
 
