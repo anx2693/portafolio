@@ -24,10 +24,10 @@ Este espacio irá creciendo con sitios web, aplicaciones y prácticas de program
 - javascript
 - MySQL
 - GitHub
-- bootstrap
-- oracle
+- Bootstrap
+- Oracle
 - Assembler
-- arduino
+- Arduino
 
 ---
 
